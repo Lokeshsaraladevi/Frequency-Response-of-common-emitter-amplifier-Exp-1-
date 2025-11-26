@@ -1,0 +1,1 @@
+# Frequency-Response-of-common-emitter-amplifier-Exp-1-
